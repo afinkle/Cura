@@ -13,7 +13,7 @@
         "platform_offset": [0, 0, 0],
         "has_materials": true,
         "has_variants": true,
-        "variants_name": "Print core",
+        "variants_name": "Tip ID (Color)",
         "preferred_variant_name": "0.84mm (Green)",
         "has_machine_materials": true,
         "preferred_material": "structur3d_dap100silicone",
